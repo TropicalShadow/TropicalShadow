@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, JS and Java**
 
-- 💬 Ask me about **Django and Discord.py**
+- 💬 Ask me about **Minecraft and Discord.py**
 
 - 📫 How to reach me **ddlogger123@gmail.com**
 
