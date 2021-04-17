@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Minecraft and Discord.py**
 
-- 📫 How to reach me **ddlogger123@gmail.com**
+- 📫 How to reach me **ddlogger123@gmail.com** | **RealName_123#8866**
 
 - ⚡ Fun fact **I am a robot**
 
