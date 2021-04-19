@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am TropicalShadow</h1>
 <h3 align="center">A self taught web dev</h3>
 
-- 🔭 I’m currently working on [Discord VSCode Extension](https://github.com/TropicalShadow/PythonDiscordAPIVSCodeExtension)
+- 🔭 I’m currently working on [Discord VSCode Extension](https://github.com/Arthuria-Network/AuroraFactions)
 
 - 🌱 I’m currently learning **Python, JS and Java**
 
