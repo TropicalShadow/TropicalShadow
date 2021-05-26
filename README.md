@@ -94,15 +94,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TropicalShadow&&style=flat-square" align="center" />
 </div>  
