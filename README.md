@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Kotlin & Minecraft NMS  
   
 
-- ❓ Ask me about anything related to Discord.py, Python or Minecraft  
+- ❓ Ask me about anything related to (Discord.py) Pycord, Python or Minecraft  
   
 
 - ⚡ Fun fact: Chainsaws, the horror-movie murder weapon of choice, were invented for aid in childbirth  
