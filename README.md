@@ -1,10 +1,10 @@
 ### <div align="center">I am TropicalShadow a self taught programmer. I expertise lay in Python but I am slowly moving to Java / Kotlin</div>  
   
 
-- 🔭 I’m currently working on [Aurora RPG](https://github.com/TropicalShadow/AuroraRPG) & [Chartiy Connections](https://github.com/TropicalShadow/CharityConnection/)  
+- 🔭 I’m currently working on Cybersecurity Degree 
   
 
-- 🌱 I’m currently learning Kotlin & Minecraft NMS  
+- 🌱 I’m currently learning the meaning of life  
   
 
 - ❓ Ask me about anything related to (Discord.py) Pycord, Python or Minecraft  
