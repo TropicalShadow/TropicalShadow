@@ -75,10 +75,10 @@
 <a href="https://github.com/TropicalShadow" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ShadowRealmMC" target="_blank">
+<a href="https://twitter.com/TropicalShadow0" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCaKr8fUeOK0jImubGsII39Q" target="_blank">
+<a href="https://www.youtube.com/@tropicalshadows" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
